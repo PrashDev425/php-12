@@ -235,7 +235,6 @@ In PHP, we have the following loop types:
 * ``for``-loops through a block of code a specified number of times
 * ``while``-loops through a block of code as long as the specified condition is true
 * ``do...while``-loops through a block of code once, and then repeats the loop as long as the specified condition is true
-* ``foreach``-loops through a block of code for each element in an array
 
 #### **``for`` Loop**
 
@@ -1050,5 +1049,6 @@ Use the following:
 > Do Yourself.
 
 ### Task 3: Simple PHP Form handeling.
+
 
 [Goto to Form Handeling](#form-handeling)
